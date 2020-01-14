@@ -17,3 +17,5 @@ go 1.13
 replace github.com/pingcap/check => github.com/tiancaiamao/check v0.0.0-20191119042138-8e73d07b629d
 
 replace github.com/coreos/go-systemd => github.com/5kbpers/go-systemd v0.0.0-20191226123609-22b03c51af0f
+
+replace github.com/sirupsen/logrus => github.com/dindinw/logrus v1.4.4-0.20200114072653-b2d9aa204997
